@@ -27,6 +27,7 @@ A few topics we covered in todays call:
 
 ## Pull Request Update
 *First thing I did was "Fork" the repo from inside github. That created my own version of the repo in my account.
+*- Using this site: https://www.thinkful.com/learn/github-pull-request-tutorial/#Time-to-Submit-Your-First-PR
 * Cloning my forked version repo: 
 ```
 $ git clone https://github.com/JayFJones/FirstRepo.git JayFirstRepo
