@@ -44,9 +44,10 @@ $ git commit -m "Pull request instruction update."
 
 * Pushing the branch to the repo:
 ```
-$ git push origin jay_pull_request
+$ git push origin 
 ```
 After that we will figure out what it takes for Justin to accept the pull request.
+
 
 
 
